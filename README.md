@@ -1,3 +1,5 @@
+![DashLivia](https://user-images.githubusercontent.com/10574148/109868692-b7e93100-7c46-11eb-987e-5fce8d75935a.jpeg)
+![DashLivia](https://user-images.githubusercontent.com/10574148/109868748-c6cfe380-7c46-11eb-961b-6aab3962cdef.jpeg)
 # Work at MaChiron
 
 A MaChiron é uma startup que busca unir a inteligência artificial e o aprendizado de máquina e a expertise humana interdisciplinar para oferecersoluções em saúde. Nossos dois principais projetos, a LivIA e a SARA, tem objetivos similares: utilizar exames de imagem para detectar anomalias, condições físicas e doenças.

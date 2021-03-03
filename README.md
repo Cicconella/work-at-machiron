@@ -1,5 +1,3 @@
-![DashLivia](https://user-images.githubusercontent.com/10574148/109868692-b7e93100-7c46-11eb-987e-5fce8d75935a.jpeg)
-![DashLivia](https://user-images.githubusercontent.com/10574148/109868748-c6cfe380-7c46-11eb-961b-6aab3962cdef.jpeg)
 # Work at MaChiron
 
 A MaChiron é uma startup que busca unir a inteligência artificial e o aprendizado de máquina e a expertise humana interdisciplinar para oferecersoluções em saúde. Nossos dois principais projetos, a LivIA e a SARA, tem objetivos similares: utilizar exames de imagem para detectar anomalias, condições físicas e doenças.
@@ -27,11 +25,14 @@ Como seria a estrutura deste banco de dados? Como você implementaria ele?
 
 ### Tarefa 3
 
-Os radiologistas quem visualizar este banco. Monte uma interface gráfica em que possamos visualizar um resumo detalhado das informações dos exames inseridos, com filtros baseados nas informações do paciente. Por exemplo, ver numero de exames para cada categoria. No caso da LivIA, nosso dashboard tem as seguintes infromações:
+Os radiologistas quem visualizar este banco. Monte uma interface gráfica em que possamos visualizar um resumo detalhado das informações dos exames inseridos, com filtros baseados nas informações do paciente. 
 
-
+Como exemplo, vejam o dashboard da LivIA
+![DashLivia](https://user-images.githubusercontent.com/10574148/109868849-e9fa9300-7c46-11eb-955d-040c13e10786.jpeg)
 
 
 ### Tarefa 4 - Bonus: Colocar o CVAT no ar.
+
+Para que os radiologistas possam anotar os exames, é necessario montar uma interface de visualização e anotação. o CVAT é uma ferramenta aberta que pode ser usada para isso. Monte uma instalação local do CVAT com suporte para imagens DICOM: https://hacarus.com/information/tech/20200717-cvat-dicom-ai/
 
 

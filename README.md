@@ -21,4 +21,8 @@ Utilize as informações obtidas pelo DICOM e construa a estrutura deste banco d
 
 ### Tarefa 3
 
-Os radiologistas quem visualizar este banco. Monte uma interface gráfica, em que possamos
+Os radiologistas quem visualizar este banco. Monte uma interface gráfica, em que possamos visualizar a quantidade de exames inseridos e com alguns filtros baseados nas informações do paciente.
+
+### Tarefa 4 - Bonus: Colocar o CVAT no ar.
+
+

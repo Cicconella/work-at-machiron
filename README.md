@@ -32,6 +32,9 @@ Como exemplo, vejam o dashboard da LivIA
 
 ### Tarefa 4 - Ferramenta de Anotação
 
-Para que os radiologistas possam anotar os exames, é necessario montar uma interface de visualização e anotação. O CVAT é uma ferramenta aberta que pode ser usada para isso. Monte uma instalação local do CVAT com suporte para imagens DICOM: https://hacarus.com/information/tech/20200717-cvat-dicom-ai/
+Para que os radiologistas possam anotar os exames, é necessario montar uma interface de visualização e anotação. O CVAT é uma ferramenta aberta que pode ser usada para esta finalidade.
+
+Monte uma instalação local do CVAT: https://hacarus.com/information/tech/20200717-cvat-dicom-ai/
+Como bônus, faça essa instalação com suporte para imagens DICOM.
 
 

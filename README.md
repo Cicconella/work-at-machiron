@@ -1,3 +1,21 @@
+# Tarefa 1
+Execute:
+
+```
+python src/tarefa1.jpg.
+```
+
+# Tarefa 2
+
+Realizado no arquivo docs/Tarefa2.pdf
+
+
+# Tarefa 3
+
+# Tarefa 4
+
+Realizado no arquivo videos/Tarefa4.mp4
+
 # Work at MaChiron
 
 A MaChiron é uma startup que busca unir a inteligência artificial e o aprendizado de máquina e a expertise humana interdisciplinar para oferecersoluções em saúde. Nossos dois principais projetos, a LivIA e a SARA, tem objetivos similares: utilizar exames de imagem para detectar anomalias, condições físicas e doenças.
@@ -24,7 +42,7 @@ Como seria a estrutura final deste banco de dados? Como você implementaria ele?
 
 ### Tarefa 3 - Visualização do Banco
 
-Os pesquisadores gostariam de visualizar informações contidas neste banco. Monte uma interface gráfica em que possamos visualizar um resumo detalhado das informações dos exames inseridos. 
+Os pesquisadores gostariam de visualizar informações contidas neste banco. Monte uma interface gráfica em que possamos visualizar um resumo detalhado das informações dos exames inseridos.
 
 Como exemplo, vejam o dashboard da LivIA
 ![DashLivia](https://user-images.githubusercontent.com/10574148/109868849-e9fa9300-7c46-11eb-955d-040c13e10786.jpeg)

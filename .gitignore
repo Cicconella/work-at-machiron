@@ -4,3 +4,6 @@ docs/Tarefa 2.gdoc
 docs/tarefa2-Diagrama-Entidade-Relacionamento.jpg
 docs/tarefa2-Diagrama-Entidade-Relacionamento.pdf
 src/testes.py
+*.jpg
+*.zip
+

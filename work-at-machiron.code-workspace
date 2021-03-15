@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/usr/local/Caskroom/miniconda/base/bin/python"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Python: Current File",
+				"type": "python",
+				"request": "launch",
+				"program": "${file}",
+				"console": "integratedTerminal",
+				// "args": ["-i", "-i"]
+				// "args": ["-i"]
+				"args": ["-i", "dicoms/0fjeqffgptvghl67enh9768ja0gr1cxa/000000.dcm"]
+			}
+		]
+	}
+}
